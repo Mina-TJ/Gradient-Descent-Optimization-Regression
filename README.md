@@ -1,6 +1,6 @@
 # Gradient Descent: Optimization and Regression Applications
 
-This repository contains an academic statistics project focused on implementing
+This repository contains an academic statistics assignment focused on implementing
 gradient descent from scratch for optimization and regression problems.
 
 Part A applies gradient descent to a cost optimization problem using a synthetic
