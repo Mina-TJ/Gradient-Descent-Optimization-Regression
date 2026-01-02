@@ -1,4 +1,5 @@
 # Gradient Descent: Optimization and Regression Applications
+https://mina-tj.github.io/Gradient-Descent-Optimization-Regression/
 
 This repository contains an academic statistics assignment focused on implementing
 gradient descent from scratch for optimization and regression problems.
